@@ -1,0 +1,15 @@
+{
+  "name": "morning-brief-vercel",
+  "version": "4.0.0",
+  "description": "한국 주식시장 뉴스 레이더 — Vercel Serverless Edition",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "devDependencies": {
+    "vercel": "^33.0.0"
+  }
+}
